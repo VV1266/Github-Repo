@@ -19,8 +19,6 @@
     "learning_rate": 0.0001,
     "lambda_l2": 0.001,
     "dropout_rate": 0.3,
-    "max_epochs": 50,
-    "optimize_type": "adam",
 
     "with_highway": true,
     "highway_layer_num": 1,
