@@ -1,2 +1,2 @@
-# dummy
-test_project
+# Python Project
+__project__
