@@ -34,7 +34,6 @@
     "fix_word_vec": true,
     "compress_input": true,
     "compress_input_dim": 100,
-
     "config_path": "config.json",
     "generate_config": false
 }
